@@ -8,5 +8,11 @@ Three major conclusions you can draw from the analysis are as follows:
 - The high temperatures of December are around 83 degrees fahrenheit, whereas the lows are 56 degrees.
 - The temperature average for June is 74 degrees and December’s temperature average is 71 degrees.
 
+
+
+![dec_june_tables](https://github.com/BrieonaT/surfs_up/blob/main/dec_june_tables.png)
+
+
+
 # Summary
 In conclusion, the data shows that the temperatures stay fairly consistent between June and December. Both months have little differences in their average temperature, and stay warm even in the winter time. However, temperature isn’t the only factor that would be beneficial for this analysis. In further analysis, it’d be opportune to also look into average rainfall for these months, especially in the case of large storms. It would also be beneficial to collect data for other weather factors such as cloudiness. 
